@@ -10,14 +10,14 @@ The primary goal of this script is to automate the process of pulling cryptocurr
 * **API Automation:** Connects to a crypto API and automatically fetches data using Python.
 * **Data Cleaning:** Cleans and transforms the raw JSON data received from the API, likely using the `pandas` library.
 * **Data Appending:** Automatically appends the new, cleaned data to a persistent file (like a `.csv`).
-* **Data Visualization:** (Optional) Includes steps or potential for visualizing the collected data using libraries like `matplotlib` or `seaborn`.
+* **Data Visualization:** (Optional) Includes steps or potential for visualizing the collected data using libraries like `matplotlib` and `seaborn`.
 
 ## 🛠️ Technologies Used
 
 * Python
 * Pandas (for Data Cleaning and Manipulation)
 * Requests (for making API calls)
-* Jupyter Notebook (or VS Code)
+* Google Colab
 
 <img width="529" height="405" alt="image" src="https://github.com/user-attachments/assets/2b51536c-8e7f-4eb9-b1b5-0cc1259ca5e8" />
 
